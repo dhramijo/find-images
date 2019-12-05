@@ -51,11 +51,7 @@ Here is what we expect our service to return:
 ```
 
 ## Usage
-Choose one of these builds and clone the project using the following command:
+Clone the project and run it using the following command:
 
-
-#### Gradle
-    git clone --single-branch -b build/gradle https://github.com/dhramijo/find-images.git
-
-#### Maven
     git clone --single-branch -b build/maven https://github.com/dhramijo/find-images.git
+    mvn spring-boot:run
