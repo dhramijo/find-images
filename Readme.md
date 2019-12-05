@@ -55,3 +55,4 @@ Clone the project and run it using the following command:
 
     git clone --single-branch -b build/maven https://github.com/dhramijo/find-images.git
     mvn spring-boot:run
+    
